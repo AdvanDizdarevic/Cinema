@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="ba.fit.kino.FilmoviActivity" >
+    <item
+
+        android:id="@+id/KorisnikUpdatePodataka"
+        android:title="@string/KorisnikUpdate"
+        android:orderInCategory="0"
+        android:icon="@drawable/ic_update"
+        tools:showAsAction="always" />
+
+
+</menu>

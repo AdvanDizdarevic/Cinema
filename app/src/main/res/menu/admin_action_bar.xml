@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:Kino="http://schemas.android.com/apk/res-auto" >
+
+
+
+
+        <item
+            android:id="@+id/AdminLogin"
+            android:title="@string/AdminLogin"
+            android:icon="@drawable/ic_administrator"
+            Kino:showAsAction="always"
+            />
+
+
+
+</menu>
+
+

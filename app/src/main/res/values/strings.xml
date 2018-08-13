@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Kino</string>
+    <string name="Login">Login</string>
+    <string name="Registracija">Registracija</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_filmovi">FilmoviActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_registracija">Registracija korisnika</string>
+    <string name="hint_login">Korisnicko ime</string>
+    <string name="hint_password">Lozinka</string>
+    <string name="Administracija">Administracija</string>
+    <string name="AdminLogin">Administracijski login</string>
+    <string name="KorisnikUpdate">Ažuriranje podataka</string>
+
+    <string-array name="navigacija_admin">
+        <item>Dodavanje  filma</item>
+        <item>Brisanje filma</item>
+        <item>Editovanje filma</item>
+        <item>Dodavanje sale</item>
+        <item>Editovanje sale</item>
+    </string-array>
+    <string-array name="navigacija_admin_ikone">
+        <item>@drawable/film1</item>
+        <item>@drawable/film2</item>
+        <item>@drawable/clap1</item>
+        <item>@drawable/sala</item>
+        <item>@drawable/stolica</item>
+    </string-array>
+
+    <string name="opis_liste">Item icon</string>
+    <string name="title_activity_admin_panel">Admin panel</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="drawer_open">Slider Menu Opened</string>
+    <string name="drawer_close">Slider Menu Closed</string>
+
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item>Home</item>
+        <item>Dodaj novog administratora</item>
+        <item>Izmjena podataka</item>
+        <item>Unos sale</item>
+        <item>Unos Filma</item>
+
+    </string-array>
+
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_home</item>
+        <item>@drawable/ic_admin</item>
+        <item>@drawable/ic_update</item>
+        <item>@drawable/sala</item>
+        <item>@drawable/film2</item>
+
+    </array>
+
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Item Icon</string>
+    <string name="title_activity_ng">NGActivity</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="title_activity_administracija">AdministracijaActivity</string>
+    <string name="title_activity_admin_login">AdminLoginActivity</string>
+    <string name="title_activity_update_korisnik">UpdateKorisnikActivity</string>
+    <string name="title_activity_drugi_list">DrugiListActivity</string>
+    <string name="title_activity_lista">ListaActivity</string>
+    <string name="title_activity_lista_bez_async">ListaBezAsync</string>
+    <string name="title_activity_rezervacija">RezervacijaActivity</string>
+
+</resources>
